@@ -1,2 +1,1 @@
-# Coursera_Capstone
-Repository for IBM Capstone project
+To identify top venues for each neighbourhood in Toronto city using Foursquare api.
